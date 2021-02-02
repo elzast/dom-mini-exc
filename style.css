@@ -2,6 +2,30 @@
   width: 100px;
   height: 100px;
   border-radius: 20px;
-  background-color: grey;
+  background-color: gray;
   color: white;
+}
+.dime {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: gray;
+}
+.penny {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: brown;
+}
+.nickle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: silver;
+}
+.quarter {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: silver;
 }
